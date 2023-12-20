@@ -164,7 +164,7 @@
 	<repositories>
     <repository>
       <id>${NEXUS-GRP-REPO}</id>
-      <url>http://35.87.109.96:8081//${NEXUSIP}:${NEXUSPORT}/repository/${NEXUS-GRP-REPO}/</url>
+      <url>http://3.17.139.55:8081//${NEXUSIP}:${NEXUSPORT}/repository/${NEXUS-GRP-REPO}/</url>
     </repository>
   </repositories>
 </project>
